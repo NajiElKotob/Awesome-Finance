@@ -4,6 +4,8 @@
 
 ## Ratios
 * [What is financial ratio analysis?](https://gocardless.com/guides/posts/what-is-financial-ratio-analysis/) - gocardless.com
+* [Financial Ratios](https://corporatefinanceinstitute.com/resources/knowledge/finance/financial-ratios/) - corporatefinanceinstitute.com | The use of financial figures to gain significant information about a company
+
 
 
 ## Reports and Articles
