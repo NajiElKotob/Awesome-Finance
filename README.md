@@ -14,6 +14,7 @@
 ## References and Resources
 * [CFI](https://corporatefinanceinstitute.com/) - corporatefinanceinstitute.com | Finance skills for the real world
   * [Common Financial Modeling Questions (and Answers!)](https://corporatefinanceinstitute.com/resources/questions/model-questions/) 
+  * [CFI Financial Modeling Competition](https://financialmodeling.org/) - financialmodeling.org
 * Investopedia
   * [How to Value a Company](https://www.investopedia.com/terms/b/business-valuation.asp) 
 
