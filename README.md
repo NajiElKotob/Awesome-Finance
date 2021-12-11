@@ -11,6 +11,9 @@
 ## References and Resources
 * [CFI](https://corporatefinanceinstitute.com/) - corporatefinanceinstitute.com | Finance skills for the real world
 pwc.com
+* Investopedia
+  * [How to Value a Company](https://www.investopedia.com/terms/b/business-valuation.asp) 
+
 
 ## Abbreviations, Acronyms and Definitions
 * [Basic Accountancy Terms (Bay Atlantic University)](https://bau.edu/blog/basic-accounting-terminologies/) - bau.edu
