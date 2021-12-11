@@ -11,3 +11,6 @@
 ## References and Resources
 * [CFI](https://corporatefinanceinstitute.com/) - corporatefinanceinstitute.com | Finance skills for the real world
 pwc.com
+
+## Abbreviations, Acronyms and Definitions
+* [Basic Accountancy Terms (Bay Atlantic University)](https://bau.edu/blog/basic-accounting-terminologies/) - bau.edu
