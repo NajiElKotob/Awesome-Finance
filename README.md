@@ -6,7 +6,8 @@
 * [What is financial ratio analysis?](https://gocardless.com/guides/posts/what-is-financial-ratio-analysis/) - gocardless.com
 * [Financial Ratios](https://corporatefinanceinstitute.com/resources/knowledge/finance/financial-ratios/) - corporatefinanceinstitute.com | The use of financial figures to gain significant information about a company
 
-
+## 3-Statement Financial Model 
+* [Build a 3-Statement Financial Model 📺 ~1.5 hours](https://www.youtube.com/watch?v=Rmi9fwkJjHw) - Wall Street Prep
 
 ## Reports and Articles
 * [Basic understanding of a company’s financial statements (PwC)](https://www.pwc.com/jm/en/research-publications/pdf/basic-understanding-of-a-companys-financials.pdf) - pwc.com
