@@ -6,7 +6,8 @@
 * [What is financial ratio analysis?](https://gocardless.com/guides/posts/what-is-financial-ratio-analysis/) - gocardless.com
 * [Financial Ratios](https://corporatefinanceinstitute.com/resources/knowledge/finance/financial-ratios/) - corporatefinanceinstitute.com | The use of financial figures to gain significant information about a company
 
-## 3-Statement Financial Model 
+## Financial Model
+### 3-Statement Financial Model 
 * [Build a 3-Statement Financial Model 📺 ~1.5 hours](https://www.youtube.com/watch?v=Rmi9fwkJjHw) - Wall Street Prep
 
 ## Reports and Articles
@@ -19,6 +20,9 @@
 * Investopedia
   * [How to Value a Company](https://www.investopedia.com/terms/b/business-valuation.asp) 
 
+## Guide
+### Color Formatting
+* [Financial Modeling Color Formatting](https://www.wallstreetmojo.com/financial-modeling-colour-formatting/) - wallstreetmojo.com
 
 ## Abbreviations, Acronyms and Definitions
 * [Basic Accountancy Terms (Bay Atlantic University)](https://bau.edu/blog/basic-accounting-terminologies/) - bau.edu
