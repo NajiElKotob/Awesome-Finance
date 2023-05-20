@@ -21,6 +21,7 @@
 -----
 ## Excel Functions
 * [IRR Function](https://support.microsoft.com/en-us/office/irr-function-64925eaa-9988-495b-b290-3ad0c163c1bc)
+* [NPV Function](https://support.microsoft.com/en-us/office/npv-function-8672cb67-2576-4d07-b67b-ac28acf2a568)
 * [Create a forecast in Excel for Windows](https://support.microsoft.com/en-us/office/create-a-forecast-in-excel-for-windows-22c500da-6da7-45e5-bfdc-60a7062329fd) - microsoft.com
 * [Keyboard shortcuts in Excel](https://github.com/NajiElKotob/Awesome-Excel/blob/main/Resources/Keyboard%20shortcuts%20in%20Excel%20-%20Unlocking%20the%20Power%20of%20Excel.pdf) - Awesome Excel
 -----
