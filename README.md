@@ -13,6 +13,7 @@
 
 ### Investment Analysis and Project Evaluation Techniques
 * [Net Present Value (NPV)](https://corporatefinanceinstitute.com/resources/valuation/net-present-value-npv/) - corporatefinanceinstitute.com
+* [Internal Rate of Return (IRR)](https://corporatefinanceinstitute.com/resources/valuation/internal-rate-return-irr/) - corporatefinanceinstitute.com
 
 
 ## Reports and Articles
