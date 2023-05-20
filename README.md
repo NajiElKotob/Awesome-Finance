@@ -8,6 +8,7 @@
 ### Models
 #### 3-Statement Financial Model 
 * [Build a 3-Statement Financial Model 📺 ~1.5 hours](https://www.youtube.com/watch?v=Rmi9fwkJjHw) - Wall Street Prep
+* [How the 3 Financial Statements are Linked](https://corporatefinanceinstitute.com/resources/accounting/3-financial-statements-linked/) - corporatefinanceinstitute.com
 
 ### Investment Analysis and Project Evaluation Techniques
 * [Net Present Value (NPV)](https://corporatefinanceinstitute.com/resources/valuation/net-present-value-npv/) - corporatefinanceinstitute.com
