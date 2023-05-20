@@ -20,9 +20,11 @@
 * Investopedia
   * [How to Value a Company](https://www.investopedia.com/terms/b/business-valuation.asp) 
 
-## Guide
-### e-books
+## e-books
 * [Financial Modeling Guidelines (CFI)](https://corporatefinanceinstitute.com/assets/Financial-Modeling-Guidelines.pdf) ⭐ - corporatefinanceinstitute.com
+* [Financial Ratios (CFI)](https://corporatefinanceinstitute.com/assets/CFI-Financial-Ratios-Cheat-Sheet-eBook.pdf) - corporatefinanceinstitute.com
+
+
 ### Color Formatting
 * [Financial Modeling Color Formatting](https://www.wallstreetmojo.com/financial-modeling-colour-formatting/) - wallstreetmojo.com
 
