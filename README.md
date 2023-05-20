@@ -11,7 +11,7 @@
 * [Build a 3-Statement Financial Model 📺 ~1.5 hours](https://www.youtube.com/watch?v=Rmi9fwkJjHw) - Wall Street Prep
 
 ## Reports and Articles
-* [Basic understanding of a company’s financial statements (PwC)](https://www.pwc.com/jm/en/research-publications/pdf/basic-understanding-of-a-companys-financials.pdf) - pwc.com
+* [Basic understanding of a company’s financial statements (PwC)](https://www.pwc.com/jm/en/research-publications/pdf/basic-understanding-of-a-companys-financials.pdf) ⭐ - pwc.com
 
 ## References and Resources
 * [CFI](https://corporatefinanceinstitute.com/) - corporatefinanceinstitute.com | Finance skills for the real world
