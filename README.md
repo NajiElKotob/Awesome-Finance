@@ -41,10 +41,9 @@
 * [Basic Accountancy Terms (Bay Atlantic University)](https://bau.edu/blog/basic-accounting-terminologies/) - bau.edu
 
 ## References and Resources
-* [CFI](https://corporatefinanceinstitute.com/) - corporatefinanceinstitute.com | Finance skills for the real world
-  * [Common Financial Modeling Questions (and Answers!)](https://corporatefinanceinstitute.com/resources/questions/model-questions/) 
-  * [CFI Financial Modeling Competition](https://financialmodeling.org/) - financialmodeling.org
-* Investopedia
+* [Corporate Finance Institute (CFI)](https://corporatefinanceinstitute.com/)
+* [Wall Street Prep](https://www.wallstreetprep.com/)
+* [Investopedia](https://www.investopedia.com)
   * [How to Value a Company](https://www.investopedia.com/terms/b/business-valuation.asp) 
 
 
