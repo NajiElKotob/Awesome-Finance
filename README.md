@@ -22,7 +22,7 @@
 
 ## Guide
 ### e-books
-* [Financial Modeling Guidelines (CFI)](https://corporatefinanceinstitute.com/assets/Financial-Modeling-Guidelines.pdf) - corporatefinanceinstitute.com
+* [Financial Modeling Guidelines (CFI)](https://corporatefinanceinstitute.com/assets/Financial-Modeling-Guidelines.pdf) ⭐ - corporatefinanceinstitute.com
 ### Color Formatting
 * [Financial Modeling Color Formatting](https://www.wallstreetmojo.com/financial-modeling-colour-formatting/) - wallstreetmojo.com
 
