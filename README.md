@@ -19,6 +19,10 @@
 * [Financial Modeling Color Formatting](https://www.wallstreetmojo.com/financial-modeling-colour-formatting/) - wallstreetmojo.com
 
 -----
+## Excel Functions
+* [Create a forecast in Excel for Windows](https://support.microsoft.com/en-us/office/create-a-forecast-in-excel-for-windows-22c500da-6da7-45e5-bfdc-60a7062329fd) - microsoft.com
+
+-----
 
 ## e-books and Presentations
 * [Financial Modeling Guidelines (CFI)](https://corporatefinanceinstitute.com/assets/Financial-Modeling-Guidelines.pdf) ⭐ - corporatefinanceinstitute.com
