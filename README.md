@@ -29,6 +29,10 @@
 * [Financial Ratios (CFI)](https://corporatefinanceinstitute.com/assets/CFI-Financial-Ratios-Cheat-Sheet-eBook.pdf) - corporatefinanceinstitute.com
 * [Basic understanding of a company’s financial statements (PwC)](https://www.pwc.com/jm/en/research-publications/pdf/basic-understanding-of-a-companys-financials.pdf) ⭐ - pwc.com
 
+## Articles
+* [How to Value a Company](https://www.investopedia.com/terms/b/business-valuation.asp) - investopedia.com
+
+
 -----
 
 ## Ratios
@@ -44,6 +48,5 @@
 * [Corporate Finance Institute (CFI)](https://corporatefinanceinstitute.com/)
 * [Wall Street Prep](https://www.wallstreetprep.com/)
 * [Investopedia](https://www.investopedia.com)
-  * [How to Value a Company](https://www.investopedia.com/terms/b/business-valuation.asp) 
 
 
