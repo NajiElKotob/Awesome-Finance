@@ -42,6 +42,9 @@
 * [Financial Ratios](https://corporatefinanceinstitute.com/resources/knowledge/finance/financial-ratios/) - CFI | The use of financial figures to gain significant information about a company
 * [Ratio Analysis](https://www.wallstreetmojo.com/ratio-analysis/) - wallstreetmojo.com
 
+## YoutTube and Videos
+* [How To Analyze a Balance Sheet](https://x.com/BrianFeroldi/status/1809546953010651261) - Brian Feroldi
+
 
 -----
 
