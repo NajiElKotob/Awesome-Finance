@@ -60,4 +60,5 @@
 * [Wall Street Prep](https://www.wallstreetprep.com/)
 * [Investopedia](https://www.investopedia.com)
 
-
+## Books
+* [Learn Accounting Visually](https://brianferoldi.ck.page/fssebook) - Brian Feroldi
