@@ -5,6 +5,9 @@
 
 ## Financial Modeling
 
+### Accounting
+* [Accounting Verse](https://www.accountingverse.com/) - accountingverse.com | Free Online Accounting Lessons
+
 ### Models
 #### 3-Statement Financial Model 
 * [Build a 3-Statement Financial Model 📺 ~1.5 hours](https://www.youtube.com/watch?v=Rmi9fwkJjHw) - Wall Street Prep
