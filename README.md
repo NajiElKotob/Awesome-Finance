@@ -47,6 +47,7 @@
 
 ## YoutTube and Videos
 * [How To Analyze a Balance Sheet](https://x.com/BrianFeroldi/status/1809546953010651261) - Brian Feroldi
+* [What Is Strategy? It’s a Lot Simpler Than You Think](https://www.youtube.com/watch?v=o7Ik1OB4TaE) - Harvard Business Review
 
 -----
 
