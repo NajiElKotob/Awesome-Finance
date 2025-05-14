@@ -55,6 +55,12 @@
 * [Stock Heatmap](https://www.tradingview.com/heatmap/stock/#%7B%22dataSource%22%3A%22SPX500%22%2C%22blockColor%22%3A%22change%22%2C%22blockSize%22%3A%22market_cap_basic%22%2C%22grouping%22%3A%22sector%22%7D) - tradingview.com
 
 -----
+## Public Finance
+* [Public Finance (CFI)](https://corporatefinanceinstitute.com/resources/economics/public-finance/) - corporatefinanceinstitute.com | How a nation manages its finances
+
+
+
+-----
 
 ## Abbreviations, Acronyms and Definitions
 * [Basic Accountancy Terms (Bay Atlantic University)](https://bau.edu/blog/basic-accounting-terminologies/) - bau.edu
