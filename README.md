@@ -17,9 +17,14 @@
 * [Net Present Value (NPV)](https://corporatefinanceinstitute.com/resources/valuation/net-present-value-npv/) - CFI
 * [Internal Rate of Return (IRR)](https://corporatefinanceinstitute.com/resources/valuation/internal-rate-return-irr/) - CFI
 * [Statement of Cash Flows (CFI)](https://corporatefinanceinstitute.com/resources/accounting/statement-of-cash-flows/) - CFI
+
 ### Best Practices
-### Color Formatting
+#### Color Formatting
 * [Financial Modeling Color Formatting](https://www.wallstreetmojo.com/financial-modeling-colour-formatting/) - wallstreetmojo.com
+
+#### Abbreviations, Acronyms and Definitions
+* [Basic Accountancy Terms (Bay Atlantic University)](https://bau.edu/blog/basic-accounting-terminologies/) - bau.edu
+
 
 -----
 ## Excel Functions
@@ -29,6 +34,11 @@
 * [Keyboard shortcuts in Excel](https://github.com/NajiElKotob/Awesome-Excel/blob/main/Resources/Keyboard%20shortcuts%20in%20Excel%20-%20Unlocking%20the%20Power%20of%20Excel.pdf) - Awesome Excel
 -----
 
+## YoutTube and Videos
+* [How To Analyze a Balance Sheet](https://x.com/BrianFeroldi/status/1809546953010651261) - Brian Feroldi
+* [What Is Strategy? It’s a Lot Simpler Than You Think](https://www.youtube.com/watch?v=o7Ik1OB4TaE) - Harvard Business Review
+* [Basic Budgeting Concepts - Leadership and Management 📺 ~42min](https://www.youtube.com/watch?v=57kzsve3h0U) - North Dakota Public Health Training Network
+  
 ## e-books and Presentations
 * [Financial Modeling Guidelines (CFI)](https://corporatefinanceinstitute.com/assets/Financial-Modeling-Guidelines.pdf) ⭐ - corporatefinanceinstitute.com
 * [Financial Ratios (CFI)](https://corporatefinanceinstitute.com/assets/CFI-Financial-Ratios-Cheat-Sheet-eBook.pdf) - corporatefinanceinstitute.com
@@ -37,6 +47,9 @@
 ## Articles
 * [How to Value a Company](https://www.investopedia.com/terms/b/business-valuation.asp) - investopedia.com
 
+## Books
+* [Learn Accounting Visually](https://brianferoldi.ck.page/fssebook) - Brian Feroldi
+
 -----
 
 ## Ratios
@@ -44,10 +57,6 @@
 * [Financial Ratios](https://corporatefinanceinstitute.com/resources/knowledge/finance/financial-ratios/) - CFI | The use of financial figures to gain significant information about a company
 * [Ratio Analysis](https://www.wallstreetmojo.com/ratio-analysis/) - wallstreetmojo.com
 
-## YoutTube and Videos
-* [How To Analyze a Balance Sheet](https://x.com/BrianFeroldi/status/1809546953010651261) - Brian Feroldi
-* [What Is Strategy? It’s a Lot Simpler Than You Think](https://www.youtube.com/watch?v=o7Ik1OB4TaE) - Harvard Business Review
-* [Basic Budgeting Concepts - Leadership and Management 📺 ~42min](https://www.youtube.com/watch?v=57kzsve3h0U) - North Dakota Public Health Training Network
 
 -----
 
@@ -58,17 +67,9 @@
 ## Public Finance
 * [Public Finance (CFI)](https://corporatefinanceinstitute.com/resources/economics/public-finance/) - corporatefinanceinstitute.com | How a nation manages its finances
 
-
-
 -----
-
-## Abbreviations, Acronyms and Definitions
-* [Basic Accountancy Terms (Bay Atlantic University)](https://bau.edu/blog/basic-accounting-terminologies/) - bau.edu
 
 ## References and Resources
 * [Corporate Finance Institute (CFI)](https://corporatefinanceinstitute.com/)
 * [Wall Street Prep](https://www.wallstreetprep.com/)
 * [Investopedia](https://www.investopedia.com)
-
-## Books
-* [Learn Accounting Visually](https://brianferoldi.ck.page/fssebook) - Brian Feroldi
