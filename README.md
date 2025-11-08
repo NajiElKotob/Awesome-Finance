@@ -38,6 +38,7 @@
 * [How To Analyze a Balance Sheet](https://x.com/BrianFeroldi/status/1809546953010651261) - Brian Feroldi
 * [What Is Strategy? It’s a Lot Simpler Than You Think](https://www.youtube.com/watch?v=o7Ik1OB4TaE) - Harvard Business Review
 * [Basic Budgeting Concepts - Leadership and Management 📺 ~42min](https://www.youtube.com/watch?v=57kzsve3h0U) - North Dakota Public Health Training Network
+* [Dr. Anil Lamba](https://www.youtube.com/@AnilLamba)
   
 ## e-books and Presentations
 * [Financial Modeling Guidelines (CFI)](https://corporatefinanceinstitute.com/assets/Financial-Modeling-Guidelines.pdf) ⭐ - corporatefinanceinstitute.com
