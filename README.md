@@ -75,3 +75,4 @@
 * [Corporate Finance Institute (CFI)](https://corporatefinanceinstitute.com/)
 * [Wall Street Prep](https://www.wallstreetprep.com/)
 * [Investopedia](https://www.investopedia.com)
+* [Electronic Data Gathering, Analysis and Retrieval (EDGAR)](https://www.sec.gov/submit-filings/about-edgar)
